@@ -1,4 +1,5 @@
 ﻿streamlit>=1.28.0
 zhipuai>=2.0.0
 requests>=2.25.0
+sniffio
 
